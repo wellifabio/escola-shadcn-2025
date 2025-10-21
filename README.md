@@ -24,17 +24,18 @@
 DATABASE_URL="mysql://root@localhost:3306/escola"
 ```
 5. Execute as migrações do Prisma para configurar o banco de dados
-   ```bash
-   npx prisma migrate dev --name init
-   ```
+```bash
+npx prisma migrate dev --name init
+```
 6. Inicie o servidor de desenvolvimento
-   ```bash
-    npm run dev
-    ```
+```bash
+npm run dev
+```
 
 7. acesse a pasta do front end `./web` instale as dependências e inicie o servidor de desenvolvimento
-   ```bash
-    cd web
-    npm install
-   npm run dev
-   ```
+```bash
+cd web
+npm install
+npm run dev
+```
+Clicar no link localhost para executar
