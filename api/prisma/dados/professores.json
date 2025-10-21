@@ -1,17 +1,17 @@
 [
     {
         "nome": "Emanuel Rego de Barros",
-        "email": "emanuel@gmail.com",
+        "email": "emanuel@email.com",
         "senha": "senha123"
     },
     {
         "nome": "Maria da Silva",
-        "email": "maria@gmail.com",
+        "email": "maria@email.com",
         "senha": "senha123"
     },
     {
         "nome": "Ana da Silva",
-        "email": "ana@gmail.com",
+        "email": "ana@email.com",
         "senha": "senha123"
     }
 ]
