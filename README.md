@@ -14,7 +14,7 @@
 2. Configure o banco de dados MySQL
 3. Acesse a pasta web e instale as dependências
 ```bash
-cd web
+cd api
 npm install
 ```
 4. Adicione o arquivo `.env` na raiz do projeto com a seguinte configuração:
