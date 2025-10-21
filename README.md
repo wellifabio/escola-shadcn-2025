@@ -13,10 +13,10 @@
 1. Clone o repositório
 2. Configure o banco de dados MySQL
 3. Acesse a pasta web e instale as dependências
-   ```bash
-   cd web
-   npm install
-   ```
+```bash
+cd web
+npm install
+```
 4. Adicione o arquivo `.env` na raiz do projeto com a seguinte configuração:
 - Certifique-se de que o MySQL está em execução (usando XAMPP ou outro gerenciador)
 
