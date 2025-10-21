@@ -13,4 +13,4 @@ cd web
 npm install
 npm run dev
 ```
-Clicar no link localhost para executar
+Clicar no link localhost para executar, semelhante a este: http://localhost:5173/
