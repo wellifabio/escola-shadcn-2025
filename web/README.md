@@ -12,5 +12,7 @@
 cd web
 npm install
 npm run dev
+## or
+npx vite
 ```
 Clicar no link localhost para executar, semelhante a este: http://localhost:5173/

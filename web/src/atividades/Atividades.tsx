@@ -38,14 +38,14 @@ function Atividades() {
             })
     }
 
-    function sair() {
+    function voltar() {
         navigate('/home')
     }
 
     return (<>
         <header className="w-full bg-blue-500 text-white flex flex-row items-center justify-around h-16">
             <h1 className="font-bold">{professor.nome}</h1>
-            <Button variant="destructive" className="bg-blue-400 text-white" onClick={() => sair()}>Sair</Button>
+            <Button variant="destructive" className="bg-blue-400 text-white" onClick={() => voltar()}>Voltar</Button>
         </header>
         <main className="min-h-screen flex items-center justify-center p-4">
             <div className="w-full max-w-4xl space-y-4 flex flex-col align-ends">
